@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:363891231831:android:846c56f5a7b86cf45be712",
         "android_client_info": {
-          "package_name": "ng.intelpeaktech"
+          "package_name": "ng.intelpeaktech.zoom_clone"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "363891231831-g67cc6thlrr7d12e737nl34r6h192ajj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "ng.intelpeaktech",
+            "package_name": "ng.intelpeaktech.zoom_clone",
             "certificate_hash": "4848915dd0a94dc0dfe8e45dbe25480ff34d1a20"
           }
         },
